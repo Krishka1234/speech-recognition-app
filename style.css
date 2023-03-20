@@ -1,0 +1,17 @@
+body
+{
+	text-align: center;
+    color: aliceblue;
+	background-size: cover;
+	font-family: cursive;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
